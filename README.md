@@ -5,7 +5,7 @@
 ### Description of the dataset:
 
 |           Feature	             |               Explanation                        |
-| -------------------------------|--------------------------------------------------|                               |
+|            ---                 |                  ---                             |                               
 | Age	                           |   Age of the patient                             | 
 | Anaemia	                       |  Decrease of red blood cells or hemoglobin       |
 | High blood pressure	           |  If a patient has hypertension                   |           
